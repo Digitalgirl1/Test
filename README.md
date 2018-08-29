@@ -1,2 +1,2 @@
 # Test
-homework
+homework for Github command demonstration
